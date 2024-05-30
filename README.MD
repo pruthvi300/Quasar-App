@@ -34,16 +34,20 @@ To get started with the Quasar App, follow these steps:
    cd quasar-app
 
 2. Install dependencies:
-npm install
+   ```sh
+      npm install
+   ```
 
 ## Usage
 To start the development server, run:
-
+```sh
 quasar dev
+```
 
 To build the project for production, run:
-
+```sh
 quasar build
+```
 
 
 ## Contributing
